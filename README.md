@@ -2,20 +2,22 @@
 
 Strategy and operations analyst with an MS in Business Analytics & AI from Johns Hopkins Carey. I turn messy data into decisions: reporting, analytics and AI tools for business problems.
 
-## Featured projects
+## About
 
-- **[FinAdvisor](https://github.com/praths04/finadvisor-lead-qualification-agents):** a four-agent AI pipeline that triages, scores and drafts compliant outreach for health-insurance leads; cut per-lead cost about 30% ($0.05 to $0.035) and scored 4.52/5.0 in LLM-as-judge tests.
-- **[Loan-default model](https://github.com/praths04/loan-default-bias-audit):** a Python risk model that catches 76% of defaulters (ROC-AUC 0.78) from 62 features, compared across five tuned models and checked for explainability and fairness with SHAP and Fairlearn.
-- **[MDD launch case](https://github.com/praths04/mdd-launch-case):** a mock consulting case on public US healthcare data recommending a six-state launch for a second-line depression therapy, with about 59 reps targeting about 7,300 prescribers.
-- **[Gas station inventory optimization](https://github.com/praths04/gas-station-inventory-optimization):** a team project on inventory management, order quantities, purchase timing and capital decisions across five datasets, with a $284K–$700K net benefit per station at 7 of 8 stations.
-- **[Digital payments in India](https://github.com/praths04/digital-payments-financial-inclusion-india):** a logistic regression analysis in R of the demographic barriers stopping people from adopting digital payments, using 40,427 survey respondents.
-- **[Kalam](https://github.com/praths04/kalam-early-learning-app):** an offline web app prototype that involves low-literacy parents in carrying out the play-based curriculum at home.
-- **[PM-KUSUM battery dispatch](https://github.com/praths04/pm-kusum-bilevel-battery-dispatch):** a bilevel optimization model of how a distributor should price an incentive for rural households to discharge rooftop solar batteries at peak hours.
+I get a real kick out of switching problems constantly: a marketing dashboard one month, an NGO's funding strategy the next, a 40,000-household survey after that. Different clients, different thinking hats, same habit.
 
-## Tools
+A few things people say about how I work: I don't wait to be told to dig deeper. I explain complicated technical work in plain language. Managers keep telling me it's what I do best. And I build relationships fast, which matters when you're the outsider walking into someone else's business for a few months.
 
-Python, R, SQL (Oracle), Power BI, Tableau, Excel, Snowflake
+Here's the last three years, compressed:
 
-## Connect
+**AARP:** My team built a member-personalization engine using K-Means clustering, a content-gap analysis, and health plans scored against real CMS data. Ranked top-3 of 17, presented to AARP leadership.
+
+**Financial inclusion in India:** During a market research internship, a coconut vendor told me he had never had access to basic banking because he couldn't read, write or even sign his name. That conversation led me to study the demographic barriers behind India's digital payment adoption, and I presented the research at the 22nd AIMS International Conference on Management, IIM Kozhikode.
+
+**Ubiqtern & Perceptive Analytics:** Built the SQL/Power BI and Tableau dashboards behind two companies' market reporting: one sped manager decisions 25–30%, the other cut leadership's decision turnaround 20–25%.
+
+**Nova Latte:** Helped a brand-new startup find its footing: market research, retail partnership development, and a pricing model, plus an AI agent that automated lead-generation research and cut 4 hours of daily searching to minutes.
+
+I graduated in August 2026 with an MS in Business Analytics & AI from Johns Hopkins Carey. I'm looking for strategy and analytics roles where all of this gets used in the same week. Send me your messiest dataset or your vaguest business question.
 
 [LinkedIn](https://www.linkedin.com/in/prathiba-reddy-namireddy) | [Portfolio](https://6a38b7b1cee129ca7a613700--comforting-queijadas-d1f251.netlify.app)
