@@ -1,23 +1,15 @@
-# Hi, I'm Prathiba
+# I notice the gaps other people walk past
 
-Strategy and operations analyst with an MS in Business Analytics & AI from Johns Hopkins Carey. I turn messy data into decisions: reporting, analytics and AI tools for business problems.
+I've noticed gaps where other people haven't.
 
-## About
+One conversation led to an entire study, which I presented at the 22nd AIMS International Conference on Management, IIM Kozhikode. During a market research internship, I spoke with a coconut vendor who had never had access to basic banking because he couldn't read, write or even sign his name. When I went looking for research on this, I found there wasn't enough on the demographic barriers holding people back, and the datasets that did exist weren't comprehensive enough to represent the whole nation. So we analyzed a survey of 40,427 households, where 76% said they don't use digital payments. The results showed how age, education, occupation, social group and income shape who gets left out.
 
-I get a real kick out of switching problems constantly: a marketing dashboard one month, an NGO's funding strategy the next, a 40,000-household survey after that. Different clients, different thinking hats, same habit.
+Kalam came from volunteering at an early-learning program whose main goal was to move children from rote learning to a play-based curriculum. One of the biggest barriers was that what happened at school couldn't be repeated at home. Even when we ran a workshop at the school for parents, most of them didn't have the time or the educational background to sit down and do activities with their children. And when I looked at the apps on the market, they all left parents out of the process: it was just the child and a chatbot talking to each other. Growing up, my most impactful learning came from sitting with my parents, and I didn't want parents to be disempowered. I wanted them to feel empowered through the process. That's when I identified the gap and built a working prototype: an offline app where a parent taps the household items they have and gets one activity that matches the curriculum, in Hindi and English, with no reading required.
 
-A few things people say about how I work: I don't wait to be told to dig deeper. I explain complicated technical work in plain language. Managers keep telling me it's what I do best. And I build relationships fast, which matters when you're the outsider walking into someone else's business for a few months.
+AARP was personal for us. Someone close to one of my teammates fell through the cracks because she didn't have the right support around her, and old-age loneliness and ageism took over. If something like AARP had been there for her back then, things could have been different. We connected so much with the mission that we went well beyond the basic ask of a content gap analysis. We ran it across NYT and AARP data on Databricks, then built member personas from three public datasets and a recommendation engine that scores health plans against real CMS data. We ranked top 3 of 17 teams, presented to AARP leadership, and the recommendations are now being tested.
 
-Here's the last three years, compressed:
+What moves me across all of these is the people on the other end of the analysis, the stories that change because someone looked closely. Most of what I've built and worked toward is aimed at something that can make a difference to someone, and that's what drives me. As a strategy and operations analyst, I want to help shape those stories by working with companies doing amazing things, and be a small part of it.
 
-**AARP:** My team built a member-personalization engine using K-Means clustering, a content-gap analysis, and health plans scored against real CMS data. Ranked top-3 of 17, presented to AARP leadership.
-
-**Financial inclusion in India:** During a market research internship, a coconut vendor told me he had never had access to basic banking because he couldn't read, write or even sign his name. That conversation led me to study the demographic barriers behind India's digital payment adoption, and I presented the research at the 22nd AIMS International Conference on Management, IIM Kozhikode.
-
-**Ubiqtern & Perceptive Analytics:** Built the SQL/Power BI and Tableau dashboards behind two companies' market reporting: one sped manager decisions 25–30%, the other cut leadership's decision turnaround 20–25%.
-
-**Nova Latte:** Helped a brand-new startup find its footing: market research, retail partnership development, and a pricing model, plus an AI agent that automated lead-generation research and cut 4 hours of daily searching to minutes.
-
-I graduated in August 2026 with an MS in Business Analytics & AI from Johns Hopkins Carey. I'm looking for strategy and analytics roles where all of this gets used in the same week. Send me your messiest dataset or your vaguest business question.
+I'm looking for opportunities, and I'm looking to make an impact. If you think I'm a good fit, please reach out.
 
 [LinkedIn](https://www.linkedin.com/in/prathiba-reddy-namireddy) | [Portfolio](https://6a38b7b1cee129ca7a613700--comforting-queijadas-d1f251.netlify.app)
